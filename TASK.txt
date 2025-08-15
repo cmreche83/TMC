@@ -1,0 +1,105 @@
+Hi Raph,
+
+ 
+
+Here’s the take home test:
+
+ 
+
+# fs-take-home-test
+
+Fullstack interview test
+
+Create a repo for this within github and share the link once complete
+
+ 
+
+Objective
+
+ 
+
+Build a simple CRUD application that has the following requirements/features:
+
+ 
+
+    Application should start with docker compose up
+
+    Three services:
+
+        Postgres database
+
+        FastAPI web app
+
+        React front end
+
+    Endpoints should be:
+
+        GET /users - returns a list of all users
+
+        DELETE /user - delete a user in the database
+
+        POST /users/create - creates a user record in the db
+
+    sqlalchemy as an ORM
+
+ 
+
+A user has the following attributes:
+
+ 
+
+    firstname
+
+    lastname
+
+    age
+
+    date of birth
+
+ 
+
+How you create the database table is your choice.
+
+ 
+
+# Evaluation Criteria
+
+ 
+
+The above task is designed to show your familiarity with the technology TMC uses.
+
+ 
+
+Once complete, a non-technical person should be able to pull your repo and:
+
+ 
+
+    Type docker compose up -d to start the application and via the interface:
+
+      Add a user.
+
+      View a list of all users.
+
+      Delete a user from the list of all users
+
+ 
+
+Submission
+
+ 
+
+Once submitted, your application will be tested and in a short technical interview you will be asked to go over your code and answer some questions about the application.
+
+ 
+
+If you don't include X in your final submission, then the assumption is you don't usually include X in your normal day-to-day coding. Please use this as an opportunity to show how you normally code and approach coding assignments (feel free to show off how good you really are!).
+
+ 
+
+Ollie Barnes 
+
+Technical Product Manager | The Miles Consultancy 
+
+T: 01270 522 757  
+M: 07470 190 898
+W: www.themilesconsultancy.com
