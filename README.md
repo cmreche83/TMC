@@ -3,7 +3,7 @@ Make sure you have Docker installed ( so Docker desktop or at least docker engin
 
 # How to Run
 - To run this program, in the command prompt type : docker compose up
-- Once this is done, open your web browser and in the address bar type: http://localhost:3000
+- Once this is done, open your web browser and in the address bar type: http://localhost:3001
 - Once you finish, in order not to keep it running in the background for nothing : docker compose down
 
 # Few extras
